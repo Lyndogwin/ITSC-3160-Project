@@ -1,4 +1,5 @@
 # ITSC-3160-Project
+### Brandon Bost
 
 1. Introduction (Team, Project Description)
 2. Use Case for Rating System
