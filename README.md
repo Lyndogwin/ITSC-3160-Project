@@ -2,9 +2,17 @@
 ### Brandon Bost
 
 ### 1. Introduction (Team, Project Description)
+The goal of this project is to produce a datamodel that with allow campus personel to effectively order food from outside source and maintain a record of the best restaurants that are contacted. 
 ### 2. Use Case for Rating System
 ![UseCase](/diagrams/UseCase.png)
 ### 3. Business Rules
+- The person on campus must be able to place an order. 
+- A person can place many orders.
+- A single order can relate only to one person.
+- A single order can only relate to one driver. 
+- A single order can only relate to one restaurant. 
+- The person (who placed the order) must be able to complete a rating for bothe the driver and the restaurant. 
+- The ratings for driver and restaurant are independent. 
 ### 4. EERD (full database)
 ![EERD](/diagrams/EERD.png)
 
