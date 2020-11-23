@@ -8,7 +8,7 @@
 ### 4. EERD (full database)
 ![EERD](/diagrams/EERD.png)
 
-<html><head>
+<head>
 <title>Schema Report for database: campus_eats_fall2020</title>
 <style>
         td,th {
@@ -231,7 +231,7 @@
 <tr><td>model</td><td>VARCHAR(75)</td><td>No</td><td>No</td><td>No</td><td>NULL</td><td></td></tr>
 <tr><td>make</td><td>VARCHAR(75)</td><td>No</td><td>No</td><td>No</td><td>NULL</td><td></td></tr>
 </table><a href="#home">Table List </a></br>
-</html>
+
 ### 5. MySQL Queries
 ### 6. Stored Procedure
 ### 7. Web/App Implementation (Optional) or Description of Future Work
